@@ -1,6 +1,6 @@
-# Welcome to your Lovable project
+# Welcome to project
 
-## Project info
+##Project info
 
 ## How can I edit this code?
 
