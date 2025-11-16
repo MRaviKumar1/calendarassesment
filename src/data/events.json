@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Daily Standup",
+    "date": "2025-11-16",
+    "startTime": "00:00",
+    "endTime": "01:30",
+    "color": "#f6be23"
+  },
+  {
+    "id": 2,
+    "title": "Weekly Catchup",
+    "date": "2025-11-16",
+    "startTime": "04:30",
+    "endTime": "07:30",
+    "color": "#f6501e"
+  },
+  {
+    "id": 3,
+    "title": "Team Meeting",
+    "date": "2025-11-18",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "color": "#4285f4"
+  },
+  {
+    "id": 4,
+    "title": "Project Review",
+    "date": "2025-11-20",
+    "startTime": "14:00",
+    "endTime": "15:30",
+    "color": "#34a853"
+  },
+  {
+    "id": 5,
+    "title": "Client Call",
+    "date": "2025-11-20",
+    "startTime": "14:30",
+    "endTime": "16:00",
+    "color": "#ea4335"
+  },
+  {
+    "id": 6,
+    "title": "Design Workshop",
+    "date": "2025-11-22",
+    "startTime": "09:00",
+    "endTime": "12:00",
+    "color": "#fbbc04"
+  },
+  {
+    "id": 7,
+    "title": "Code Review",
+    "date": "2025-11-25",
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "color": "#9c27b0"
+  },
+  {
+    "id": 8,
+    "title": "Sprint Planning",
+    "date": "2025-11-27",
+    "startTime": "10:00",
+    "endTime": "12:00",
+    "color": "#00bcd4"
+  },
+  {
+    "id": 9,
+    "title": "Lunch Break",
+    "date": "2025-11-27",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "color": "#ff9800"
+  },
+  {
+    "id": 10,
+    "title": "1:1 Meeting",
+    "date": "2025-11-29",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "color": "#e91e63"
+  }
+]

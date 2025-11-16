@@ -47,6 +47,15 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        calendar: {
+          header: "hsl(var(--calendar-header))",
+          'header-foreground': "hsl(var(--calendar-header-foreground))",
+          today: "hsl(var(--calendar-today))",
+          'today-foreground': "hsl(var(--calendar-today-foreground))",
+          hover: "hsl(var(--calendar-hover))",
+          selected: "hsl(var(--calendar-selected))",
+          weekend: "hsl(var(--calendar-weekend))",
+        },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
